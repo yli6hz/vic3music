@@ -1,0 +1,12 @@
+{
+	"name": "My Custom Music",
+	"id": "custom.my_custom_music",
+	"version": "1.0",
+	"game_id": "victoria3",
+	"supported_game_version": "1.14.*",
+	"short_description": "Adds your own music files as a dedicated category in the in-game music player. Drop audio into original\\ and run the one-click deploy script.",
+	"tags": [
+		"Music",
+		"Utilities"
+	]
+}
