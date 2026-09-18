@@ -1,0 +1,6 @@
+﻿category = {
+	id = "my_custom_music_category"
+	name = "my_custom_music_category_name"
+	tracks = {
+	}
+}

@@ -1,0 +1,3 @@
+﻿l_simp_chinese:
+ my_custom_music_category_name:0 "我的自定义音乐"
+ custom_music_empty:0 "(还没有歌曲，请往 original\ 放入音频后重新运行 一键部署.bat)"
